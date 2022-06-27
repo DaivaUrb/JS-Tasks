@@ -1,4 +1,5 @@
 'use strict'
-export default function substraction(a, b) {
+
+export default function subtraction(a, b) {
   return a - b;
 };
