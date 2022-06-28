@@ -38,7 +38,6 @@ function renderCarsCards(cars) {
     });
   }
   
-
   const fetchData = async () => {
     try {
       const response = await fetch(ENDPOINT);
